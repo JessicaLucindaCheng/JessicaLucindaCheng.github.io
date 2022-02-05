@@ -35,6 +35,8 @@
 }
 
 .project-card.wins-card{
+    overflow: visible;
+
     @media #{$bp-below-desktop} {
         margin-bottom: 24px;
     }
