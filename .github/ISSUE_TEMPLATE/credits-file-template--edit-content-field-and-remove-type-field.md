@@ -17,7 +17,9 @@ assignees: ''
 As a developer, I want to edit the content field and remove the type field from a credit's yml file so that redundant code is removed and the code is easier to understand.
 
 ### Details
-Currently, in each credit's yml file, there is a `content` field and a `type` field, which contains similar information. Since the fields are redundant, we decided to remove the `type` field.  Also, we changed the `content` field to the `content-type` field to make it clearer what its purpose is. The possible values for `content-type` field are image, video, or audio; other types of content can be added if necessary. In the future, this will allow developers a way to differentiate easily between different types of content in order to show each credit's media file correctly on the website.
+Currently, in each credit's yml file, there is a `content` field and a `type` field, which contains similar information. Since the fields are redundant, we decided to remove the `type` field.  
+
+Also, we changed the `content` field to the `content-type` field to make it clearer what its purpose is. The possible values for `content-type` field are image, video, or audio; other types of content can be added if necessary. In the future, this will allow developers a way to differentiate easily between different types of content in order to show each credit's media file correctly on the website.
 
 ### Action Items
 For the file `_data/internal/credits/[INSERT FILE NAME HERE].yml`, do the following:
@@ -29,11 +31,13 @@ For the file `_data/internal/credits/[INSERT FILE NAME HERE].yml`, do the follow
   ```
   content-type: image
   ```
-
 - [ ] Remove line [ADD LINE NUMBER WHICH HAS TYPE] for the type field
   ```
   type: [INSERT THE CURRENT TEXT ON THE FILE HERE]
   ```
+- [ ] Once the pull request associated with this issue is approved and merged, please update and edit epic #2775 by
+  - [ ] Checking off the dependency for this issue
+  - [ ] If all dependencies are checked off, please move issue #2775 to the New Issue Approval column and remove the Dependency label
 
 ### Resources/Instructions
 - This issue is tracked in the epic #2775.
