@@ -8,7 +8,7 @@
     {% assign sorted_program_areas = site.program-areas | sort %}
     {% for program_area in sorted_program_areas %}
         <li class="program-area-card">
-            <a href="/program-areas/#{{ program_area.name | slugify }}">
+            <a href="/program-areas#{{ program_area.name | slugify }}">
                 <div class="program-area-img">
                     <img class="program-area-gradient" src="{{program_area.image}}" alt="{{program_area.image_alt}}"/>
                 </div>
