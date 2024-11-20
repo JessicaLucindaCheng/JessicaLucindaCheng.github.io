@@ -18,7 +18,7 @@ permalink: /program-areas
 <section class="content-section content--program-areas">
   {% assign sorted_program_areas = site.program-areas | sort %}
   {% for program_areas in sorted_program_areas %}
-  <a class="anchor"  id="{{ program_areas[0] }}"></a>
+  <a class="anchor"  id="{{ program_areas.name | slugify }}"></a>
   <div class="page-card card-primary page-card-lg page-card-container">
       <div class="page-card-image-container">
         <img class="page-card-image" src="{{ program_areas.image }}" alt="">
