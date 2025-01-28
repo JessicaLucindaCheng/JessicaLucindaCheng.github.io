@@ -2,7 +2,7 @@
 name: Post an open role
 about: Recruit volunteers for specific open roles template
 title: 'HfLA Website: Open Role for: [Replace with NAME OF ROLE]'
-labels: 'Complexity: Small, role missing'
+labels: role missing
 assignees: ''
 
 ---

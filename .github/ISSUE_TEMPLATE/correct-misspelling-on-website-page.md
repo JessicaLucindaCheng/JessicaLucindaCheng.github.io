@@ -2,8 +2,7 @@
 name: Correct misspelling on Website Page
 about: Describe this issue template's purpose here.
 title: Correct misspelling in [REPLACE WITH NAME OF PAGE] page
-labels: 'Feature Missing, feature: spelling, good first issue, role: back end/devOps,
-  role: front end, size: 0.25pt, time sensitive'
+labels: 'Feature Missing, good first issue, role: back end/devOps'
 assignees: ''
 
 ---

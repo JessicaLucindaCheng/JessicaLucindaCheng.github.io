@@ -2,8 +2,7 @@
 name: Project Profile leader updates - Add
 about: This template is for website team only to ADD a single volunteer
 title: 'Update Project Profile: [Project Name] Add [Name of Volunteer]'
-labels: 'good first issue, P-Feature: Project Info and Page, role: back end/devOps,
-  role: front end, size: 0.25pt, time sensitive'
+labels: 'good first issue, role: back end/devOps'
 assignees: ''
 
 ---

@@ -2,8 +2,7 @@
 name: 'Skills Issue: Developer'
 about: Guides all developers through their time on the website team
 title: 'Skills Issue: Developer: [replace brackets with your name]'
-labels: 'Complexity: Prework, Feature: Board/GitHub Maintenance, role missing, size:
-  3pt'
+labels: role missing
 assignees: ''
 
 ---
@@ -97,18 +96,18 @@ Sections
 - [ ] Note: The meetings on the 1st-7th of every month are planning meetings for leads and merge team. You are welcome to observe but we don't provide team member support.
 - [ ] Note regarding weekly team meeting requirements: All website team members are required to attend at least 1 team meeting in a week (held on Tuesdays, Thursdays and Sundays). In case, you are unable in any given week, you should reach out to the tech leadership team. Exceptions to this requirement may be provided on a case-by-case basis. Also, please let the tech leadership team know through a Slack message in the #hfla-site Slack channel as well as an @ mention in a comment of the issue that you would be working on, if you are planning to take a week off or a longer vacation.
 - [ ] Post the following message in a comment below on this issue and then answer it.
-    ```
-    ### 2 - TEAM MEETINGS update
-    >which meetings did you register for
-     - [ ] Developer (front-end/back-end)
-     - [ ] (Optional) Office Hours
-     - [ ] All team meeting 
-    >When did you attend your first team meeting?
+   ```
+   ### 2 - TEAM MEETINGS update
+   >Which meetings did you register for
+      - [ ] Developer (front-end/back-end)
+      - [ ] (Optional) Office Hours
+      - [ ] All team meeting 
+   >When did you attend your first team meeting?
     
-    A:
+   A:
     
-    [return to section 2](#section-2)
-    ```
+   [return to section 2](#section-2)
+   ```
 
 [**⇧** Table of Contents](#table-of=contents)
 

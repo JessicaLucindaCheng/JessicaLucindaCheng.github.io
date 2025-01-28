@@ -2,8 +2,7 @@
 name: Project Profile leader updates - Remove
 about: 'This template is for website team only to REMOVE a single volunteer '
 title: 'Update Project Profile: [Name of Project] Remove [Name of Volunteer]'
-labels: 'good first issue, P-Feature: Project Info and Page, role: back end/devOps,
-  role: front end, size: 0.25pt, time sensitive'
+labels: 'good first issue, role: back end/devOps'
 assignees: ''
 
 ---
